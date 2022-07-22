@@ -1,0 +1,13 @@
+D:\REPOS\PlaceHolder\bin\Debug\PlaceHolder.exe.config
+D:\REPOS\PlaceHolder\bin\Debug\PlaceHolder.exe
+D:\REPOS\PlaceHolder\bin\Debug\PlaceHolder.pdb
+D:\REPOS\PlaceHolder\obj\Debug\PlaceHolder.Properties.Resources.resources
+D:\REPOS\PlaceHolder\obj\Debug\PlaceHolder.csproj.GenerateResource.cache
+D:\REPOS\PlaceHolder\obj\Debug\PlaceHolder.csproj.CoreCompileInputs.cache
+D:\REPOS\PlaceHolder\obj\Debug\PlaceHolder.exe
+D:\REPOS\PlaceHolder\obj\Debug\PlaceHolder.pdb
+D:\REPOS\PlaceHolder\obj\Debug\PlaceHolder.Form1.resources
+D:\REPOS\PlaceHolder\obj\Debug\PlaceHolder.csproj.AssemblyReference.cache
+D:\REPOS\PlaceHolder\obj\Debug\PlaceHolder.csproj.SuggestedBindingRedirects.cache
+D:\REPOS\PlaceHolder\bin\Debug\System.Data.SQLite.dll
+D:\REPOS\PlaceHolder\obj\Debug\PlaceHolder.csproj.CopyComplete

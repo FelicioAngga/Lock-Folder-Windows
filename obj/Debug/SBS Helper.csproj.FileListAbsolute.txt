@@ -1,0 +1,17 @@
+D:\REPOS\Import Database\bin\Debug\PlaceHolder.exe.config
+D:\REPOS\Import Database\bin\Debug\PlaceHolder.exe
+D:\REPOS\Import Database\bin\Debug\PlaceHolder.pdb
+D:\REPOS\Import Database\bin\Debug\System.Data.SQLite.dll
+D:\REPOS\Import Database\obj\Debug\SBS Helper.csproj.AssemblyReference.cache
+D:\REPOS\Import Database\obj\Debug\SBS Helper.csproj.SuggestedBindingRedirects.cache
+D:\REPOS\Import Database\obj\Debug\PlaceHolder.Form1.resources
+D:\REPOS\Import Database\obj\Debug\PlaceHolder.Properties.Resources.resources
+D:\REPOS\Import Database\obj\Debug\SBS Helper.csproj.GenerateResource.cache
+D:\REPOS\Import Database\obj\Debug\SBS Helper.csproj.CoreCompileInputs.cache
+D:\REPOS\Import Database\obj\Debug\SBS Helper.csproj.CopyComplete
+D:\REPOS\Import Database\obj\Debug\PlaceHolder.exe
+D:\REPOS\Import Database\obj\Debug\PlaceHolder.pdb
+D:\REPOS\Import Database\bin\Debug\IronXL.dll
+D:\REPOS\Import Database\bin\Debug\IronXL.xml
+D:\REPOS\Import Database\bin\Debug\IronXL.dll.config
+D:\REPOS\Import Database\obj\Debug\PlaceHolder.ImportDB.resources
